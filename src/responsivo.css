@@ -1,0 +1,165 @@
+/*--IPOHNE8--*/
+
+@media (max-width: 859px) {
+    .header img {
+        max-width: 80px;
+        max-height: 80px;
+    }
+
+    .redes-sociais img {
+        margin-left: 50px;
+        width: 30%;
+        height: 30%;
+    }
+
+    .botao imput {
+        max-width: 80%;
+    }
+
+    p,
+    h1,
+    h2 {
+        font-size: 15px;
+    }
+
+    .container {
+        max-width: 90%;
+    }
+
+    .card-deck {
+        max-width: 100%;
+    }
+
+    .card-body {
+        max-height: 100%;
+    }
+
+    .btn {
+        max-width: 80%;
+    }
+}
+
+/*--GALAXY-NOTE9--*/
+
+@media (max-width: 770px) {
+    .header img {
+        max-width: 60px;
+        max-height: 60px;
+    }
+
+
+    .redes-sociais img {
+        margin-left: 45px;
+        width: 20%;
+        height: 20%;
+
+    }
+
+    .botao imput {
+        max-width: 450px;
+    }
+
+    h1,
+    h2 {
+        font-size: 12px;
+    }
+
+    .resumo p {
+        font-size: 25px;
+        
+    }
+
+
+    .container {
+        max-width: 90%;
+    }
+
+
+    .card-deck card nborder {
+        max-width: 90%;
+    }
+
+    .card-text {
+        font-size: 12px;
+    }
+
+    .card-body {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .btn {
+        max-width: 60%;
+    }
+
+    h6 {
+        font-size: 12px;
+    }
+
+}
+
+/*--NOKIA-275PX--*/
+@media (max-width: 367px) {
+    body {
+
+        overflow-x: hidden;
+    }
+
+    .header img {
+        max-width: 40px;
+        max-height: 40px;
+    }
+
+    .redes-sociais img {
+        margin-left: 36px;
+        width: 30%;
+        height: 30%;
+    }
+
+    .botao {
+        width: 150px;
+    }
+
+    h2 {
+        font-size: 3px;
+    }
+
+    p {
+        font-size: 6px;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+
+    .card-deck {
+        max-width: 100%;
+    }
+
+    .card-body {
+
+        max-height: 100%;
+    }
+
+    .btn {
+        max-width: 76%;
+        height: 30px;
+    }
+
+    h6 {
+        font-size: 6px;
+
+    }
+
+    .resumo {
+        width: 269px;
+        margin-left: 30px;
+        text-align: center;
+
+    }
+
+    .resumo p {
+        font-size: 12px;
+
+    }
+}
